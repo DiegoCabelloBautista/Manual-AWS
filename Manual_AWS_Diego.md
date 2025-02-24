@@ -4,7 +4,7 @@ Para poder crear una instancia en AWS, tendremos que acceder a la pagina de AWS,
 una vez en la página principal, en el pequeño menu que nos aparece a la izquierda
 buscaremos Contenidos.
 
-![cap1](./imagenes/cap1.png)
+![cap1](cap1.png)
 
 Una vez dentro de Contenidos, nos apareceran varias opciones y buscaremos,
 "Laboratorio para el alumnado de AWS Academy" que en este caso solo tendremos 
